@@ -1,1 +1,1 @@
-# SimpleProj
+# NewProject
